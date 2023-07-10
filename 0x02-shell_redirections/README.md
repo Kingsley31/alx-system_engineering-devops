@@ -5,4 +5,4 @@
 5. 4-lastlines: This script is used to print the last 10 line of /etc/passwd file in standard output.
 6. 5-firstlines: This script is used to print the first 10 line of /etc/passwd file in standard output.
 7. 6-third_line: This script is used to print the third line of the file iacta in standard output.
-
+8. 7-file: This script is used to create a a file named \*\\'"Best School"\'\\*$\?\*\*\*\*\*:) and add the string "Best School" into it.
