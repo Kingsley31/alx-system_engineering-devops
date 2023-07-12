@@ -10,4 +10,4 @@
 10. 9-divide_and_rule: This script prints the outcome of the variable POWER divided by the variable DIVIDE.
 11. 10-love_exponent_breath: This script print the outcome of the value of the variable BREATH raise to the power of the value of the variable LOVE.
 12. 11-binary_to_decimal: This script converts the value of the variable BINARY to base 10.
-  
+13. 12-combinations: This script prints all possible combinations of two laters except "oo".  
