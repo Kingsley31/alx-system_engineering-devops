@@ -4,4 +4,5 @@
 4. 3-paths: This script displays the number of directories in the PATH environment variable.
 5. 4-global_variables: This script displays all the environment variables.
 6. 5-local_variables: This script displays all variables in including local variables,environment variables and functions.
-7. 6-create_local_variable: This script creates a local variable named BEST and sets it's value to "School". 
+7. 6-create_local_variable: This script creates a local variable named BEST and sets it's value to "School".
+8. 7-create_global_variable: This script creates a global variable named BEST and sets it's value to "School". 
