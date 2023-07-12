@@ -6,4 +6,5 @@
 6. 5-local_variables: This script displays all variables in including local variables,environment variables and functions.
 7. 6-create_local_variable: This script creates a local variable named BEST and sets it's value to "School".
 8. 7-create_global_variable: This script creates a global variable named BEST and sets it's value to "School".
-9. 8-true_knowledge: This script prints the sum of 128 and the value of the environment variable TRUEKNOWLEDGE.  
+9. 8-true_knowledge: This script prints the sum of 128 and the value of the environment variable TRUEKNOWLEDGE.
+10. 9-divide_and_rule: This script prints the outcome of the variable POWER divided by the variable DIVIDE.  
