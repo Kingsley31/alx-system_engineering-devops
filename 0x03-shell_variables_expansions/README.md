@@ -7,4 +7,5 @@
 7. 6-create_local_variable: This script creates a local variable named BEST and sets it's value to "School".
 8. 7-create_global_variable: This script creates a global variable named BEST and sets it's value to "School".
 9. 8-true_knowledge: This script prints the sum of 128 and the value of the environment variable TRUEKNOWLEDGE.
-10. 9-divide_and_rule: This script prints the outcome of the variable POWER divided by the variable DIVIDE.  
+10. 9-divide_and_rule: This script prints the outcome of the variable POWER divided by the variable DIVIDE.
+11. 10-love_exponent_breath: This script print the outcome of the value of the variable BREATH raise to the power of the value of the variable LOVE.  
